@@ -1,0 +1,85 @@
+
+#header 
+{
+    padding-top: 0px;
+   font-family: 'Times New Roman', Times, serif;
+    border-bottom: black solid 2px;
+    padding-bottom: 2%;
+    background-color: white;
+    position: relative;
+}
+li
+{
+    list-style: none;
+}
+
+a:visited
+{
+    color:black;
+}
+
+
+a:hover
+{
+  text-decoration: solid black;
+}
+
+a
+{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+     color:black;
+}
+
+#boite
+{
+    padding-top: 1%;
+    background-color: teal;
+}
+
+
+
+#nav
+{
+    display: flex;
+    justify-content: space-around;
+}
+h1, h2, h3
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: teal;
+    text-align: center;
+   font-family: Helvetica;
+}
+p
+{
+    text-align: justify;
+   font-family: Helvetica;
+} 
+
+
+#divtext
+{
+   
+    padding-top: 5%;
+    margin-left: 8%;
+    margin-right: 8%;
+   padding-bottom: 5%; 
+    padding-right: 8%;
+    padding-left: 8%;
+   
+   
+   background-color: white;
+ 
+}
+
+footer
+{
+    display: flex;
+    background-color: black;
+    padding-bottom:1% ;
+    padding-top: 1%;
+    color: white;
+    justify-content: space-around;
+}
+
